@@ -14,4 +14,7 @@
    1. building SSR with next.js
 
 5. Product component
+
    1. npm i react-currency-formatter
+
+6. Finalizing product feed section
