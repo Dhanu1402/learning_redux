@@ -15,6 +15,7 @@ export default function Header() {
             src="https://links.papareact.com/f90"
             width={150}
             height={40}
+            alt="logo"
             objectFit="contain"
             className="cursor-pointer"
           />
