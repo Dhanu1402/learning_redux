@@ -18,3 +18,9 @@
    1. npm i react-currency-formatter
 
 6. Finalizing product feed section
+
+7. Implementing authentication
+   1. npm install next-auth
+   2. creating [...nextauth].js file
+   3. setting up firebase
+   4. Login & logout functionality
