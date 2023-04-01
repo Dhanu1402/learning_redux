@@ -49,3 +49,7 @@
     1. npm install -g stripe
     2. stripe login
     3. stripe listen --forward-to localhost:3002/api/webhooks
+
+16. Implementing webhooks
+    1. npm i micro
+    2. npm i firebase-admin
