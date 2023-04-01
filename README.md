@@ -27,3 +27,5 @@
    4. Login & logout functionality
 
 8. Creating checkout page left side
+
+9. Implementing redux for add to Basket functionality
