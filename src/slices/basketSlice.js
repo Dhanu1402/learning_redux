@@ -1,13 +1,15 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
   items: [],
 };
 
 export const basketSlice = createSlice({
-  name: "basket",
+  name: 'basket',
   initialState,
   reducers: {
+    // actions
+    // action => payload that is an object that contains the product
     addToBasket: (state, action) => {},
     removeFromBasket: (state, action) => {},
   },
