@@ -58,4 +58,7 @@
 17. Building the sucess page
 
 18. Building ther orders page (1/2)
+
     1. npm i moment
+
+19. Building the order Component
