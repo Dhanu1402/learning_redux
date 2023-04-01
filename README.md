@@ -39,6 +39,13 @@
 13. Implementing the total price in basket functionality
 
 14. Implementing Stripe checkout
+
     1. npm install --save stripe
     2. npm i @stripe/stripe-js
     3. npm i axios
+
+15. Implementing stripe CLI
+
+    1. npm install -g stripe
+    2. stripe login
+    3. stripe listen --forward-to localhost:3002/api/webhooks
