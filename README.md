@@ -35,3 +35,5 @@
 11. Implementing Add & Remove item functionality in checkout page
 
 12. Building the right side of checkout page
+
+13. Implementing the total price in basket functionality
