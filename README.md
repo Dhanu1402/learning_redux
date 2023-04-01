@@ -51,5 +51,8 @@
     3. stripe listen --forward-to localhost:3002/api/webhooks
 
 16. Implementing webhooks
+
     1. npm i micro
     2. npm i firebase-admin
+
+17. Building the sucess page
