@@ -62,3 +62,5 @@
     1. npm i moment
 
 19. Building the order Component
+
+20. Minor Changes
