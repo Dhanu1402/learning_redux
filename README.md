@@ -31,3 +31,5 @@
 9. Implementing redux for add to Basket functionality
 
 10. Building the left side of checkout page (2/2)
+
+11. Implementing Add & Remove item functionality in checkout page
