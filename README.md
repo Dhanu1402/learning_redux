@@ -33,3 +33,5 @@
 10. Building the left side of checkout page (2/2)
 
 11. Implementing Add & Remove item functionality in checkout page
+
+12. Building the right side of checkout page
