@@ -32,6 +32,7 @@ export default function Product({
       description,
       category,
       image,
+      hasPrime,
     };
     // sending the product as an action to the redux store... the basket slice
     dispatch(addToBasket(product));

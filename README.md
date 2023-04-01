@@ -26,6 +26,8 @@
    3. setting up firebase
    4. Login & logout functionality
 
-8. Creating checkout page left side
+8. Creating checkout page left side (1/2)
 
 9. Implementing redux for add to Basket functionality
+
+10. Building the left side of checkout page (2/2)
