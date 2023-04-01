@@ -37,3 +37,8 @@
 12. Building the right side of checkout page
 
 13. Implementing the total price in basket functionality
+
+14. Implementing Stripe checkout
+    1. npm install --save stripe
+    2. npm i @stripe/stripe-js
+    3. npm i axios
